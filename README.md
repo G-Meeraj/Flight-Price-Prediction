@@ -92,5 +92,5 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is licensed under the MIT License.
 
 ---
-**Author:** Your Name  
-**GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+**Author:** G.Meeraj
+**GitHub:** [Your GitHub Profile](https://github.com/G-Meeraj)
