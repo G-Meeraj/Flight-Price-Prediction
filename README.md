@@ -78,12 +78,23 @@ The model is trained using:
 - Data preprocessing with feature encoding.
 - Hyperparameter tuning for optimization.
 
-## Deployment
-The project can be deployed on platforms like:
-- **Heroku**
-- **AWS EC2**
-- **Google Cloud Platform (GCP)**
-- **Render**
+# Power BI Flight Fare Analysis
+
+## Overview
+This Power BI report analyzes flight fare trends using a dataset containing airline, route, duration, stops, and pricing information. The report provides insights into price variations, travel duration, and the impact of stops on fares.
+
+## Dataset
+- **File:** `Flight_Fare_Analysis.xlsx`
+- **Columns:** Airline, Date_of_Journey, Source, Destination, Route, Dep_Time, Arrival_Time, Duration, Total_Stops, Price
+
+## License
+This project is open-source and free to use for analysis and learning purposes.
+
+## Author
+Your Name (Replace with your GitHub username or contact details)
+
+
+
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
